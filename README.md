@@ -50,3 +50,36 @@ javac -cp .:lib/sigar.jar SystemInfo.java
 
 
 
+
+
+IP address: 192.168.1.2
+OS: Windows 10
+OS Version: 10.0
+Architecture: amd64
+User: JohnDoe
+
+CPU Info:
+Vendor: Intel
+Model: Core(TM) i7-9700K CPU @ 3.60GHz
+Mhz: 3600
+
+Memory Info:
+Total: 16384 MB
+Used: 8192 MB
+Free: 8192 MB
+
+File System:
+Device: C:
+Total: 500000000 KB
+Used: 250000000 KB
+Free: 250000000 KB
+
+Network Interface:
+Interface: eth0
+Address: 192.168.1.2
+MAC Address: 00:1A:2B:3C:4D:5E
+RX Packets:
+
+
+
+
