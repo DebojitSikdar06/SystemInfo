@@ -32,6 +32,21 @@ Extract the native libraries from the Sigar distribution and place them in a dir
 2. Ensure that the Sigar library (both JAR and native libraries) is included in your project's build path.
 3. Compile and run the `SystemInfo.java` file.
 
+
+
+## Output
+-IP address
+- Operating System Detail:
+- CPU Information
+- Memory Information
+- File System Information
+- Network Interface Information
+-System Uptime
+ 
 #### Compilation
 ```bash
 javac -cp .:lib/sigar.jar SystemInfo.java
+
+
+
+
