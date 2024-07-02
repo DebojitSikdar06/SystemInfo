@@ -35,8 +35,8 @@ Extract the native libraries from the Sigar distribution and place them in a dir
 
 
 ## Output
--IP address
-- Operating System Detail:
+- Operating System Detail
+- IP address
 - CPU Information
 - Memory Information
 - File System Information
